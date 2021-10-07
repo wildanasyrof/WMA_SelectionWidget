@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AnimekuTv</string>
+    <string-array name="genre">
+        <item>Genre</item>
+        <item>Action</item>
+        <item>Supernatural</item>
+        <item>Comdey</item>
+        <item>Romance</item>
+        <item>Isekai</item>
+        <item>Horror</item>
+    </string-array>
+</resources>
